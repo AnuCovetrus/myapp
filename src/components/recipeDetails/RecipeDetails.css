@@ -1,0 +1,26 @@
+.recipe-details {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .recipes {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .recipe-card {
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 200px;
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .recipe-image {
+    max-width: 100%;
+    border-radius: 5px;
+  }
+  

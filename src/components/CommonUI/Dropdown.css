@@ -1,0 +1,21 @@
+/* Dropdown.css */
+.dropdown-container {
+    margin-bottom: 1rem;
+  }
+  
+  .dropdown {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+  }
+  
+  .dropdown-error {
+    border-color: red;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 0.875rem;
+  }
+  

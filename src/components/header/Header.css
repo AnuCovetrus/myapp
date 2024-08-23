@@ -1,0 +1,56 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 3.2rem;
+    width: 100%;
+    text-align: center;
+    color: var(--primary-text);
+    background-color: var(--primary-bg);
+  }
+  
+  .header-heading {
+    font-size: 1.3rem;
+    margin: 0 0;
+    position: fixed; 
+  }
+
+  .heading-home{
+    text-decoration: none;
+    color: var(--primary-text);
+    font-size: 1.3rem;
+    margin-left: 117px;
+    margin-top: -12px;
+    position: fixed;
+  }
+
+  .heading-aboutus{
+    text-decoration: none;
+    color: var(--primary-text);
+    font-size: 1.3rem;
+    margin-left: 195px;
+    margin-top: -12px;
+    position: fixed;
+  }
+
+  .space{
+    margin-left: 180px;
+    margin-top: -13px;
+    font-size: 1.3rem;
+    position: fixed;
+  }
+
+  .spaces{
+    margin-left: 84px;
+    margin-top: -20px;
+    padding: 0.5rem 1rem;
+    font-size: 1.3rem;
+    position: fixed;
+  }
+
+  .btn-logout{
+    background-color: black;
+    color: white;
+    position: relative;
+    left: 35em;
+  }

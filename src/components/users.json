@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "4c5f",
+      "firstName": "Anu",
+      "lastName": "Gupta",
+      "email": "anu.gupta@gmail.com",
+      "password": "Anu123456",
+      "confirmPassword": "Anu12345",
+      "foodInterest": "Vegan Options."
+    },
+    {
+      "id": "f1eb",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "49aa",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "21b2",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "143f",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "6c85",
+      "email": "",
+      "password": ""
+    }
+  ]
+}

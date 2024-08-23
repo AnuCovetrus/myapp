@@ -1,0 +1,34 @@
+.vegan-recipes {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.recipe-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.recipe-card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.recipe-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.recipe-card h2 {
+    font-size: 1.5em;
+    margin-top: 0;
+}
+
+.recipe-card p {
+    color: #666;
+}
